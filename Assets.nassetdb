@@ -1,0 +1,33 @@
+{
+    "113e3e46-7607-4bf9-ceb3-48f3ef4608e8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Pixel_Platformer_Thumb.tex.nasset"
+    },
+    "37f17c9a-2bd0-1888-0f76-41eea7eeb198": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "8711fd5a-8967-95f5-373c-b9a01673c39b": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "d70d70bc-16ec-4b67-a09e-0c4b6539149f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Pixel Platformer.scene.nasset"
+    },
+    "fa9f7beb-24b1-4ebc-9e94-342e81453f40": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Pixel Platformer",
+        "thumbnail": "113e3e46-7607-4bf9-ceb3-48f3ef4608e8",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "8711fd5a-8967-95f5-373c-b9a01673c39b"
+}
